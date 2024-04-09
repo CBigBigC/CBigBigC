@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Watson Roal
+- 👋 Hi, I’m Watson Cao
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on all kinds of algorithms
